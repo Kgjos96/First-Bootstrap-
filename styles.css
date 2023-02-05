@@ -1,0 +1,14 @@
+.carouselItem {
+    height: 50vh;
+}
+.carouselPic {
+    height: 100%;
+    width: 100%;
+}
+.h-35 {
+    height: 35%;
+}
+#modalp {
+    margin: 0;
+    padding: 0;
+}
